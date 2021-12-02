@@ -3,7 +3,7 @@
 ## I'm a AI / ML Engineer also a data scientist
 
 - GUCian
-- 🔭 I am an ITIian
+- ITIian
 
 
 
@@ -37,7 +37,7 @@
 
   <br>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazab1235)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lozi97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/ellouzi/
